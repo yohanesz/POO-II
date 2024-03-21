@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/home/yohanes/Área de Trabalho/POO II/aula2302Projeto/.metadata/.plugins/org.eclipse.jdt.core
+868885312.index
+2018849534.index
+1865797976.index
+2570495262.index
